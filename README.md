@@ -4,7 +4,7 @@ Hii !! I'am Prashant.<br>I'am a blockchain Engineer.<br>I'm currently working on
 
 <br>👯 **I’m looking to collaborate on:** <br>Web3 Projects like Dapps and DEX's.
 
-<br>🌱 **I’m currently learning:** <br>GO and Rust Languages then move to L2 Layer.
+<br>🌱 **I’m currently learning:** <br>Go Lang and Rust Languages then move to L2 Layer.
 
 ## 🌐 Socials:
 
