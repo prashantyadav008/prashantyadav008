@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hii !! I'am Prashant.<br>I'am a blockchain Engineer.<br>I'm currently working on L3 Projects.<br>From India
+Hii !! I'am Prashant.<br>I'am a blockchain Engineer.<br>I'm currently working on DEFI, and DEX Projects.<br>From India
 
 <br>👯 **I’m looking to collaborate on:** <br>Web3 Projects like Dapps and DEX's.
 
